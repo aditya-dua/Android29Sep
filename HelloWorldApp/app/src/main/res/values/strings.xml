@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HelloWorldApplicationByAditya</string>
+    <string name="hello_world">Hello Android !</string>
+    <string name="username">UserName :</string>
+    <string name="pwd">Password :</string>
+    <string name="enter_username">Enter Your UserName</string>
+    <string name="enter_pwd">Enter your Password</string>
+    <string name="login_text">Login</string>
+
+
+
+</resources>

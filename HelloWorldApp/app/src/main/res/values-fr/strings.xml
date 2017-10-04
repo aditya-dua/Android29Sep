@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bonjour application mondiale par Aditya</string>
+    <string name="hello_world">Hello Android !</string>
+    <string name="username">Nom d\'utilisateur :</string>
+    <string name="pwd">Mot de passe :</string>
+    <string name="enter_username">Entrez votre nom d\'utilisateur</string>
+    <string name="enter_pwd">Tapez votre mot de passe</string>
+    <string name="login_text">S\'identifier</string>
+
+
+
+</resources>
