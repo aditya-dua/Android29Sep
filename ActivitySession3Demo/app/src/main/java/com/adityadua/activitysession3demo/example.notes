@@ -1,0 +1,25 @@
+Activity is the UI which is shown to the user
+
+At one point in time there can be only one Activity running in the foreground
+
+Whatever you see on the screen is an Activity
+
+1 activity can have only 1 UI screen
+
+onCreate =>  set the view and intilize
+onRestart =>
+onStart => where you set up previous data
+onResume() => after the activity is about to be live
+
+Activity is running !!!!!
+
+You get a CALL or minimize the APP
+
+onPause() => you will the current state of the system
+progress of the user / which user was logged in and so on
+
+onStop() => the activity is no longer and is waiting either to be resumed or to be killed
+
+onDestroy() =>
+
+
