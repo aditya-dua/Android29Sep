@@ -1,0 +1,9 @@
+Activity :
+
+how android launches a particular UI ?
+
+Activity is UI which is shown to the user
+at ie point in time there can be only 1 activity running live in the system
+
+
+i click o the app icon

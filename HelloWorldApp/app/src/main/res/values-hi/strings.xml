@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">आदित्य द्वारा नमस्ते विश्व आवेदन</string>
+    <string name="hello_world">हैलो एंड्रॉइड!</string>
+    <string name="username">उपयोगकर्ता नाम :</string>
+    <string name="pwd">पासवर्ड :</string>
+    <string name="enter_username">अपने उपयोगकर्ता नाम दर्ज करें</string>
+    <string name="enter_pwd">अपना पासवर्ड डालें</string>
+    <string name="login_text">लॉग इन करें</string>
+
+
+
+</resources>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/acadgild_logo"
+        android:id="@+id/imageView" />
+
+    <TextView
+        android:text="Hello World"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView"
+        android:textSize="18sp"
+        android:fontFamily="serif"
+        android:typeface="sans"
+        android:lineSpacingExtra="8sp"
+        android:textColor="@color/colorPrimaryDark"
+        android:textStyle="normal|italic"
+        android:textAlignment="center"
+        android:layout_marginTop="25dp" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:id="@+id/editText"
+        android:hint="Name" />
+
+    <Button
+        android:layout_width="195dp"
+        android:layout_height="56dp"
+        android:id="@+id/button"
+        android:background="@drawable/login"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="50dp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:id="@+id/clear_btn"
+        android:background="@android:drawable/btn_default"
+        android:text="Clear"
+        />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="@android:color/holo_red_dark"></LinearLayout>
+</LinearLayout>

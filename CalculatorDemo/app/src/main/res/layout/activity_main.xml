@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:id="@+id/linLayoutHor1"
+        android:layout_width="185dp"
+        android:layout_height="62dp"
+        android:orientation="horizontal"
+        android:weightSum="1"
+        tools:layout_editor_absoluteX="76dp"
+        tools:layout_editor_absoluteY="93dp">
+
+        <Button
+            android:id="@+id/btn1"
+            android:layout_width="56dp"
+            android:layout_height="wrap_content"
+            android:background="@android:drawable/dialog_holo_light_frame"
+            android:text="1" />
+
+        <Button
+            android:id="@+id/btn2"
+            android:layout_width="56dp"
+            android:layout_height="wrap_content"
+            android:background="@android:drawable/dialog_holo_light_frame"
+            android:text="2" />
+
+        <Button
+            android:id="@+id/btn3"
+            android:layout_width="56dp"
+            android:layout_height="wrap_content"
+            android:background="@android:drawable/dialog_holo_light_frame"
+            android:text="3" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linLayHor2"
+        android:layout_width="184dp"
+        android:layout_height="64dp"
+        android:orientation="horizontal"
+        android:weightSum="1"
+        tools:layout_editor_absoluteX="76dp"
+        tools:layout_editor_absoluteY="162dp">
+
+        <Button
+            android:id="@+id/btn4"
+            android:layout_width="56dp"
+            android:layout_height="wrap_content"
+            android:background="@android:drawable/dialog_holo_light_frame"
+            android:text="4" />
+
+        <Button
+            android:id="@+id/btn5"
+            android:layout_width="56dp"
+            android:layout_height="wrap_content"
+            android:background="@android:drawable/dialog_holo_light_frame"
+            android:text="5" />
+
+        <Button
+            android:id="@+id/btn6"
+            android:layout_width="56dp"
+            android:layout_height="wrap_content"
+            android:background="@android:drawable/dialog_holo_light_frame"
+            android:text="6" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linLayHor3"
+        android:layout_width="184dp"
+        android:layout_height="64dp"
+        android:orientation="horizontal"
+        android:weightSum="1"
+        tools:layout_editor_absoluteX="76dp"
+        tools:layout_editor_absoluteY="226dp">
+
+        <Button
+            android:id="@+id/btn7"
+            android:layout_width="56dp"
+            android:layout_height="wrap_content"
+            android:background="@android:drawable/dialog_holo_light_frame"
+            android:text="7" />
+
+        <Button
+            android:id="@+id/btn8"
+            android:layout_width="56dp"
+            android:layout_height="wrap_content"
+            android:background="@android:drawable/dialog_holo_light_frame"
+            android:text="8" />
+
+        <Button
+            android:id="@+id/btn9"
+            android:layout_width="56dp"
+            android:layout_height="wrap_content"
+            android:background="@android:drawable/dialog_holo_light_frame"
+            android:text="9" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linLayHor4"
+        android:layout_width="184dp"
+        android:layout_height="64dp"
+        android:orientation="horizontal"
+        android:weightSum="1"
+        tools:layout_editor_absoluteX="77dp"
+        tools:layout_editor_absoluteY="290dp">
+
+        <Button
+            android:id="@+id/btnC"
+            android:layout_width="56dp"
+            android:layout_height="wrap_content"
+            android:background="@android:drawable/dialog_holo_light_frame"
+            android:text="C" />
+
+        <Button
+            android:id="@+id/btn10"
+            android:layout_width="56dp"
+            android:layout_height="wrap_content"
+            android:background="@android:drawable/dialog_holo_light_frame"
+            android:text="0" />
+
+        <Button
+            android:id="@+id/btndecimal"
+            android:layout_width="56dp"
+            android:layout_height="wrap_content"
+            android:background="@android:drawable/dialog_holo_light_frame"
+            android:text="." />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/linLayVer1"
+        android:layout_width="wrap_content"
+        android:orientation="horizontal"
+        tools:layout_editor_absoluteX="280dp"
+        tools:layout_editor_absoluteY="93dp"
+        android:layout_height="100dp">
+
+        <Button
+            android:id="@+id/btnDiv"
+            android:layout_width="56dp"
+            android:layout_height="wrap_content"
+            android:background="@android:drawable/dialog_holo_light_frame"
+            android:text="/" />
+
+        <Button
+            android:id="@+id/btnMul"
+            android:layout_width="56dp"
+            android:layout_height="wrap_content"
+            android:background="@android:drawable/dialog_holo_light_frame"
+            android:text="*"  />
+
+        <Button
+            android:id="@+id/btnSub"
+            android:layout_width="56dp"
+            android:layout_height="wrap_content"
+            android:background="@android:drawable/dialog_holo_light_frame"
+            android:text="-"  />
+
+        <Button
+            android:id="@+id/btnAdd"
+            android:layout_width="56dp"
+            android:layout_height="wrap_content"
+            android:background="@android:drawable/dialog_holo_light_frame"
+            android:text="+"  />
+
+        <Button
+            android:id="@+id/btnEqual"
+            android:layout_width="56dp"
+            android:layout_height="wrap_content"
+            android:background="@android:drawable/dialog_holo_light_frame"
+            android:text="="  />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="370dp"
+        android:layout_height="75dp"
+        android:orientation="horizontal"
+        tools:layout_editor_absoluteX="13dp"
+        tools:layout_editor_absoluteY="10dp">
+
+        <TextView
+            android:id="@+id/txtCalcDisplay"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="0"
+
+            android:textColor="@android:color/black"
+            android:textIsSelectable="true"
+            android:textSize="36sp"
+            android:textStyle="bold"
+            android:visibility="visible" />
+    </LinearLayout>
+</LinearLayout>

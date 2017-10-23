@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IntentsDemo</string>
+    <string name="userName_label">UserName</string>
+    <string name="password_label">Password</string>
+    <string name="loginBtn">Login</string>
+    <string name="userName_input">Enter UserName</string>
+    <string name="password_input">Enter Password</string>
+
+</resources>
