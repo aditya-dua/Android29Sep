@@ -1,0 +1,17 @@
+List View ::::
+When we want the items to be dynamic and we are not sure about the length or the number of items
+then we use the ListView
+
+Simple  : This list view is given by the Android and includes a simple textView
+Multiple View List View ::
+Say we are having ::: TextView and Image View
+Custom List ::: When you create the view on your own
+
+We will need to create a row and will link which elements is connected to which
+item on the list
+
+Image is what type of text and so on
+
+Simple List View :
+Is a normal TExtview places in the repetetive order
+
