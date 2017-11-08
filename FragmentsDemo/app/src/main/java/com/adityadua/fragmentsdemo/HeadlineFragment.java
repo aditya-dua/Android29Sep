@@ -37,6 +37,7 @@ public class HeadlineFragment extends ListFragment {
 
     }
 
+    /** The First Method is this to be called**/
     @Override
     public void onAttach(Activity activity) {
         super.onAttach(activity);
