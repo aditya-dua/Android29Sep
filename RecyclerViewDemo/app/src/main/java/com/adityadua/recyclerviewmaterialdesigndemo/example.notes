@@ -1,0 +1,13 @@
+So any list which you are creating on your own and are not using any of the android
+capablities is called a CUSTOM LIST.
+
+How we make a list ?
+
+
+ArrayAdaptor<String>  arrayAdaptor = new ArrayAdaptor<string> (
+this,android.R.ulayout.simple_list_item_1,array)
+
+only a string si thats why a TextView
+
+custom list : I might have say 3 view (Image View , Buttob , Text View)
+

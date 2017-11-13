@@ -1,0 +1,34 @@
+Activity :
+It is one of the most important component in the Android Aplications.
+
+What are different components in Android ?
+4 main Android Components ::::
+1) Activity : this is basically which is shown to the user, Now we can relate activity
+to a running application
+Each activity can have only 1 UI screen.
+How you set the UI and how the UI is called that is covered in today session in details
+
+2) Service : Service is an Android components which runs in background.
+Ex : Music player , even if the app the music still plays and so on
+So we can say that service has no UI attached to it.
+
+3) BroadCast Receiver : This is basically kind of event handler for your application
+I say whenever I receive an incoming start this method......
+Battery Low
+Phone Reboot & so - on...
+
+
+Phone Reboot Or Phone Call
+Basically here the focus on an event whihc when triggered by the OS,
+ like I find that I am having an ...
+ So all the aps whihc have registered for it , get a notification or a call back to
+ the method which we register....
+
+ Ex 1 : truecaller helps you identify the number
+ Ex 2 : Call blocker might reject if its in the blocked list
+ Ex 3 : Contacts helps you with Contact Name
+ Ex 4 :
+ So have u used an expense tracker where
+
+ Conent Providor :
+ Content sharers ::
