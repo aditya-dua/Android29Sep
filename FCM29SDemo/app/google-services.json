@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "344348359076",
+    "firebase_url": "https://fcm29sdemo.firebaseio.com",
+    "project_id": "fcm29sdemo",
+    "storage_bucket": "fcm29sdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344348359076:android:f66fd2dd77353725",
+        "android_client_info": {
+          "package_name": "com.adityadua.fcm29sdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344348359076-0pq1runfgfadohqkufmkg41iv6n7r8vf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adityadua.fcm29sdemo",
+            "certificate_hash": "938713a868f598abcc14ac3bfd728de2eb951d86"
+          }
+        },
+        {
+          "client_id": "344348359076-924su3rep765a3tgeqiio6of8e985sqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDazOVYgbhIGvAWkHINJWtv4oiH-I3uqkM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344348359076-924su3rep765a3tgeqiio6of8e985sqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

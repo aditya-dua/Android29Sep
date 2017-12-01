@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "454609322419",
+    "project_id": "socialmediaintegration29sdemo"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454609322419:android:6287ae02afdeb75d",
+        "android_client_info": {
+          "package_name": "com.adityadua.socialmediaintegration29s"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454609322419-q61bmofvov1k5c1n5epvpqedb96vktl5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adityadua.socialmediaintegration29s",
+            "certificate_hash": "938713a868f598abcc14ac3bfd728de2eb951d86"
+          }
+        },
+        {
+          "client_id": "454609322419-jhc68iur9uajnc2nugi9hf1pnatmarm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXwkcaU9KtEiMcI4I_xdoW2o3XNsPSp4E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
